@@ -14,7 +14,7 @@ The app:
 
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
+git clone https://github.com/VashishthSoni/AI-Blog-Generator-with-Langchain.git
 cd blog-generator-langchain
 ```
 
@@ -38,7 +38,9 @@ source venv/bin/activate
 
 ### 3. Install Dependencies
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ---
 
@@ -55,7 +57,9 @@ Do not push this file to GitHub.
 
 ### 5. Run the Application
 
-```streamlit run app.py```
+```
+streamlit run app.py
+```
 
 - The app will open in your browser.
 ---
